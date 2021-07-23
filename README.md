@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I'm Karoline!  :D
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Karoline1998)](https://github.com/Karoline1998)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karoline-nascimento-leite-419b4a147/)](https://www.linkedin.com/in/karoline-nascimento-leite-419b4a147/)
+
+### About me
+
+Studying Systems Analysis and Development. :computer: :books:
+With knowledge in programming languages ​​such as C\C++, HTML, CSS, Java, Javascript, and persistence in databases such as PostgreSQL and others.
+I gained practical knowledge of operating systems like Linux (and derivatives), and repositories like GitHub and GitLab.
+I'm working on creating new ideas for applications, focusing on increasingly empowering myself in software development.
 
 <!--
 **Karoline1998/Karoline1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
